@@ -4,4 +4,4 @@ version: 1
 
 handlers:- url: /.*
  
-script: index.php
+script: maps.php
