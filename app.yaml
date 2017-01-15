@@ -1,0 +1,7 @@
+runtime: php55
+api_
+version: 1 
+
+handlers:- url: /.*
+ 
+script: maps.php
